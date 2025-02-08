@@ -1,4 +1,4 @@
-# Data-analytics-TeamProject
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/eb9cc6d5-d77d-480e-bdf1-81e26fdda927" /># Data-analytics-TeamProject
 
 ## 프로젝트명 : 데이터 분석 기반 2025 국내 프로 스포츠 직관 관중수 예측 및 스포츠 팬 맞춤 마케팅 전략 제안
 
@@ -128,6 +128,11 @@
 
 ### 4.3 종목별 관중수와 검색량 추이
 - 목적: 종목별 관중수와 검색량이 서로 유의미한 상관관계를 지니는지 확인하고자 하며, 월별 관중수 데이터와 검색량 데이터를 이용하여 비슷한 추이를 보이는지 살펴볼 예정입니다.
+
+- 검색량와 관중수 추이
+  - 2023년 1월부터 2024년 11월까지의 데이터에서 검색량과 관중수는 서로 유사한 패턴을 보이는 것을 확인할 수 있었습니다.
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/633b2745-3185-4f5b-82d6-02df14829ebf" />
+
 
 
    
